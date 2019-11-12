@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwoferTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-12T18:00:02" hostname="ELSLOWL-7038293" time="0.008">
+  <properties/>
+  <testcase name="anotherNameGiven" classname="TwoferTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
