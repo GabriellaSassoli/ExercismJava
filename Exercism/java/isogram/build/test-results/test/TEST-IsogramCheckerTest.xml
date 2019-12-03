@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsogramCheckerTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2019-12-03T22:39:31" hostname="ELSLOWL-7038293" time="0.037">
+  <properties/>
+  <testcase name="testDuplicateEndAlphabet" classname="IsogramCheckerTest" time="0.029"/>
+  <testcase name="testIsogramWithDuplicatedHyphen" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testIsogramWithDuplicatedCharAfterHyphen" classname="IsogramCheckerTest" time="0.001"/>
+  <testcase name="testCaseInsensitive" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testLowercaseIsogram" classname="IsogramCheckerTest" time="0.001"/>
+  <testcase name="testNotIsogram" classname="IsogramCheckerTest" time="0.001"/>
+  <testcase name="testMadeUpNameThatIsAnIsogram" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testEmptyString" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testIsogramWithHyphen" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testSameFirstAndLast" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testDuplicatMixedCase" classname="IsogramCheckerTest" time="0.001"/>
+  <testcase name="testMediumLongIsogram" classname="IsogramCheckerTest" time="0.0"/>
+  <testcase name="testDuplicatedCharacterInTheMiddleIsNotIsogram" classname="IsogramCheckerTest" time="0.0"/>
+  <system-out><![CDATA[zzyzx
+Le due lettere z z sono uguali
+Le due lettere z z sono uguali
+Le due lettere z z sono uguali
+six-year-old
+thumbscrew-jappingly
+Le due lettere p p sono uguali
+alphabet
+Le due lettere a a sono uguali
+isogram
+eleven
+Le due lettere e e sono uguali
+Le due lettere e e sono uguali
+Le due lettere e e sono uguali
+emily jung schwartzkopf
+
+thumbscrew-japingly
+angola
+Le due lettere a a sono uguali
+alphabet
+Le due lettere a a sono uguali
+subdermatoglyphic
+accentor
+Le due lettere c c sono uguali
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
